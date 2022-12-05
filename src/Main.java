@@ -23,16 +23,6 @@ public class Main {
         modificaContenidoObjeto(objeto2); // pasamos la referencia al objeto
         System.out.println("Valor del objeto fuera del método: " + objeto2);
 
-
-    }
-    private static void modificaVarInt(int a) {
-        a++; // Incrementamos en 1
-        System.out.println("Valor del int dentro del método:   " + a);
-    }
-
-    private static void modificaVarString(String a) {
-        a += " modificado";
-        System.out.println("Valor del string dentro del método: " + a);
     }
 
     private static void modificaVarObjeto(Clase o) {
