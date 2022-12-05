@@ -1,4 +1,5 @@
 Nombre completo: Brigitte Macías
+
 Grupo:DAW.
 
 El repositorio local de trabajo debe estar dentro de la partición "NOCTURNO", y una vez terminado el examen debe dejarse ahí hasta que el profesor entregue la calificación del examen.
@@ -12,10 +13,14 @@ Cada uno de los puntos deberá mostrar al menos una captura mostrando los pasos 
     Creación de un proyecto de IntelliJ con repositorio Git y código de ejemplo.
 
     Primer commit en master.
+    
+    ![captura1](https://user-images.githubusercontent.com/95747897/205701730-cb12cbf3-ff79-446b-935f-cbe8f2d9eadd.png)
 
     Creamos y desarrollamos la rama valor_referencia.
 
     Hacemos un push de la rama valor_referencia.
+    
+![captura2](https://user-images.githubusercontent.com/95747897/205701841-24b7dbc1-cdd2-475a-bf86-0774145d0d26.png)
 
     Hacemos un merge de esta rama a master.
 
