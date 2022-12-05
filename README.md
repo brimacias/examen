@@ -19,8 +19,6 @@ Cada uno de los puntos deberá mostrar al menos una captura mostrando los pasos 
     Creamos y desarrollamos la rama valor_referencia.
 
     Hacemos un push de la rama valor_referencia.
-    
-![captura2](https://user-images.githubusercontent.com/95747897/205701841-24b7dbc1-cdd2-475a-bf86-0774145d0d26.png)
 
     Hacemos un merge de esta rama a master.
 
