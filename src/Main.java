@@ -4,7 +4,6 @@ public class Main {
         System.out.println("Valor del objeto fuera del método: " + objeto2);
 
 
-
         System.out.println("\n--- Pasando arrays");
 
         int[] array1 = new int[5];

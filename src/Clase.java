@@ -1,19 +1,15 @@
-public class Clase {
-    int i;
-    String string = "string1";
 
-    public Clase(int i, String string) {
-        this.i = i;
-        this.string = string;
-    }
+    class Clase {
+        int entero;
+        String string;
 
-    public void modificaObjeto(int nuevo_int, String nuevo_string) {
-        i = nuevo_int;
-        string = nuevo_string;
-    }
+        public Clase(int i, String string) {
+            this.entero = i;
+            this.string = string;
+        }
 
-    @Override
-    public String toString() {
-        return "Objeto { i=" + i + ", a='" + string + "\'}";
-    }
+        @Override
+        public String toString() {
+            return "Objeto { i=" + entero + ", a='" + string + "\'}";
+        }
 }
